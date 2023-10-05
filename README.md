@@ -44,7 +44,7 @@ To run the tests manually, follow these steps:
 1. Clone the repository to the local machine from the public repository link
 
     
-    git clone https://github.com/Kathiresh0603/akirolabs_Assessment.git
+    git clone https://github.com/Kathiresh0603/akirolabs_HomeAssessments
 
 2. Navigate to the project's root directory.
 
