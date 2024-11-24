@@ -18,6 +18,7 @@ import java.util.Properties;
 
 public class GoogleHomePage {
     private WebDriver driver;
+    //Kathiresh
     private By searchBox = By.name("q");
     public GoogleHomePage(WebDriver driver) {
         this.driver = driver;
